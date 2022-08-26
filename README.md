@@ -2,7 +2,7 @@
 - 👀 I’m interested in Power BI
 - 🌱 I’m currently learning Power BI and visualisation
 - 💞️ I’m looking to collaborate on Power BI
-- 📫 How to reach me nidhi.kotak9821@gmail.com
+- 📫 How to reach me nidhi.k@leecare.com.au
 
 <!---
 nidhikotak21/nidhikotak21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
